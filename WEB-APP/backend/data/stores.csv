@@ -1,0 +1,9 @@
+store_id,store_name,location,manager,total_value
+S001,Walmart Supercenter - Location 1,"Area 1, NY",Manager 1,84152
+S002,Walmart Supercenter - Location 2,"Area 2, NY",Manager 2,90430
+S003,Walmart Supercenter - Location 3,"Area 3, NY",Manager 3,155105
+S004,Walmart Supercenter - Location 4,"Area 4, NY",Manager 4,117170
+S005,Walmart Supercenter - Location 5,"Area 5, NY",Manager 5,87885
+S006,Walmart Supercenter - Location 6,"Area 6, NY",Manager 6,103190
+S007,Walmart Supercenter - Location 7,"Area 7, NY",Manager 7,142464
+S008,Walmart Supercenter - Location 8,"Area 8, NY",Manager 8,116307

@@ -1,0 +1,16 @@
+product_name,available_stock,warehouse_location
+Milk (1 Gallon),660,Central Warehouse
+Milk (1 Gallon),791,East Warehouse
+Milk (1 Gallon),603,West Warehouse
+Bread (Whole Wheat),458,Central Warehouse
+Bread (Whole Wheat),201,East Warehouse
+Bread (Whole Wheat),649,West Warehouse
+Bananas (per lb),820,Central Warehouse
+Bananas (per lb),650,East Warehouse
+Bananas (per lb),282,West Warehouse
+Ground Beef (1 lb),816,Central Warehouse
+Ground Beef (1 lb),931,East Warehouse
+Ground Beef (1 lb),568,West Warehouse
+Coca Cola (12 pack),874,Central Warehouse
+Coca Cola (12 pack),363,East Warehouse
+Coca Cola (12 pack),112,West Warehouse

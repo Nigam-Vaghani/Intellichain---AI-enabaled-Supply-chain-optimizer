@@ -1,0 +1,5 @@
+holiday_name,date,impact_multiplier,affected_categories
+Christmas,2024-12-25,2.5,"Food,Beverages,Seasonal"
+Thanksgiving,2024-11-28,3.0,"Food,Beverages"
+New Year,2024-12-31,1.8,"Beverages,Seasonal"
+Easter,2024-03-31,2.0,"Food,Seasonal"

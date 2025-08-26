@@ -1,0 +1,6 @@
+transfer_id,from_store,to_store,product_name,quantity,status,created_at,completed_at
+77ab22b6,S002,S008,Milk (1 Gallon),40,in-transit,2025-07-02,2025-07-03
+d8de7c04,S002,S006,Milk (1 Gallon),22,in-transit,2025-07-04,2025-07-09
+f306e64c,S002,S007,Milk (1 Gallon),43,in-transit,2025-07-02,2025-07-05
+4bae8acf,S004,S002,Ground Beef (1 lb),25,completed,2025-06-27,2025-06-29
+29785ffb,S008,S001,Ground Beef (1 lb),43,completed,2025-07-02,2025-07-06

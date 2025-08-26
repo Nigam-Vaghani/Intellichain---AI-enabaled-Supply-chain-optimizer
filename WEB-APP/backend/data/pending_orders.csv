@@ -1,0 +1,11 @@
+order_id,store_id,product_name,quantity,status,created_at,estimated_delivery
+df1be80a,S003,Coca Cola (12 pack),51,shipped,2025-06-29,2025-07-03
+a611c5fa,S007,Bananas (per lb),63,pending,2025-07-05,2025-07-11
+73a555c6,S001,Milk (1 Gallon),19,processing,2025-06-29,2025-07-01
+91135840,S004,Bananas (per lb),12,pending,2025-07-05,2025-07-07
+476470af,S002,Coca Cola (12 pack),96,shipped,2025-07-06,2025-07-08
+310ca9a5,S008,Bananas (per lb),79,shipped,2025-07-01,2025-07-03
+b3ad2752,S005,Bananas (per lb),44,pending,2025-07-05,2025-07-07
+b1cde07e,S007,Milk (1 Gallon),70,pending,2025-07-01,2025-07-04
+299af1e8,S003,Ground Beef (1 lb),86,shipped,2025-07-02,2025-07-07
+8ebec586,S003,Ground Beef (1 lb),96,shipped,2025-07-08,2025-07-13
